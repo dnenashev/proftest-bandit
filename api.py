@@ -8,7 +8,8 @@ from models import init_db, Question, QuestionPosition, TestSession, QuestionInt
 from bandit import MultiBanditTest
 
 app = Flask(__name__)
-CORS(app)  # Enable CORS for all routes
+# Enable CORS for specific origins
+CORS(app, resources={r"/api/*": {"origins": ["https://career-test-nextjs-only.vercel.app", "http://localhost:3000"]}}, supports_credentials=True)
 
 # Initialize database session
 session = init_db()
