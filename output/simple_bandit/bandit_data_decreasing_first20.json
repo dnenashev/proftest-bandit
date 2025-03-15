@@ -1,0 +1,352 @@
+{
+  "1": {
+    "alpha": 441,
+    "beta": 461,
+    "pulls": 900,
+    "conversions": 440,
+    "included_count": 900
+  },
+  "2": {
+    "alpha": 478,
+    "beta": 445,
+    "pulls": 921,
+    "conversions": 477,
+    "included_count": 921
+  },
+  "3": {
+    "alpha": 394,
+    "beta": 509,
+    "pulls": 901,
+    "conversions": 393,
+    "included_count": 901
+  },
+  "4": {
+    "alpha": 430,
+    "beta": 465,
+    "pulls": 893,
+    "conversions": 429,
+    "included_count": 893
+  },
+  "5": {
+    "alpha": 425,
+    "beta": 501,
+    "pulls": 924,
+    "conversions": 424,
+    "included_count": 924
+  },
+  "6": {
+    "alpha": 402,
+    "beta": 519,
+    "pulls": 919,
+    "conversions": 401,
+    "included_count": 919
+  },
+  "7": {
+    "alpha": 416,
+    "beta": 498,
+    "pulls": 912,
+    "conversions": 415,
+    "included_count": 912
+  },
+  "8": {
+    "alpha": 374,
+    "beta": 534,
+    "pulls": 906,
+    "conversions": 373,
+    "included_count": 906
+  },
+  "9": {
+    "alpha": 374,
+    "beta": 544,
+    "pulls": 916,
+    "conversions": 373,
+    "included_count": 916
+  },
+  "10": {
+    "alpha": 368,
+    "beta": 539,
+    "pulls": 905,
+    "conversions": 367,
+    "included_count": 905
+  },
+  "11": {
+    "alpha": 402,
+    "beta": 507,
+    "pulls": 907,
+    "conversions": 401,
+    "included_count": 907
+  },
+  "12": {
+    "alpha": 363,
+    "beta": 550,
+    "pulls": 911,
+    "conversions": 362,
+    "included_count": 911
+  },
+  "13": {
+    "alpha": 341,
+    "beta": 577,
+    "pulls": 916,
+    "conversions": 340,
+    "included_count": 916
+  },
+  "14": {
+    "alpha": 314,
+    "beta": 591,
+    "pulls": 903,
+    "conversions": 313,
+    "included_count": 903
+  },
+  "15": {
+    "alpha": 316,
+    "beta": 590,
+    "pulls": 904,
+    "conversions": 315,
+    "included_count": 904
+  },
+  "16": {
+    "alpha": 322,
+    "beta": 594,
+    "pulls": 914,
+    "conversions": 321,
+    "included_count": 914
+  },
+  "17": {
+    "alpha": 308,
+    "beta": 603,
+    "pulls": 909,
+    "conversions": 307,
+    "included_count": 909
+  },
+  "18": {
+    "alpha": 280,
+    "beta": 584,
+    "pulls": 862,
+    "conversions": 279,
+    "included_count": 862
+  },
+  "19": {
+    "alpha": 278,
+    "beta": 632,
+    "pulls": 908,
+    "conversions": 277,
+    "included_count": 908
+  },
+  "20": {
+    "alpha": 281,
+    "beta": 619,
+    "pulls": 898,
+    "conversions": 280,
+    "included_count": 898
+  },
+  "21": {
+    "alpha": 91,
+    "beta": 672,
+    "pulls": 761,
+    "conversions": 90,
+    "included_count": 761
+  },
+  "22": {
+    "alpha": 46,
+    "beta": 382,
+    "pulls": 426,
+    "conversions": 45,
+    "included_count": 426
+  },
+  "23": {
+    "alpha": 65,
+    "beta": 549,
+    "pulls": 612,
+    "conversions": 64,
+    "included_count": 612
+  },
+  "24": {
+    "alpha": 27,
+    "beta": 307,
+    "pulls": 332,
+    "conversions": 26,
+    "included_count": 332
+  },
+  "25": {
+    "alpha": 33,
+    "beta": 330,
+    "pulls": 361,
+    "conversions": 32,
+    "included_count": 361
+  },
+  "26": {
+    "alpha": 48,
+    "beta": 423,
+    "pulls": 469,
+    "conversions": 47,
+    "included_count": 469
+  },
+  "27": {
+    "alpha": 89,
+    "beta": 653,
+    "pulls": 740,
+    "conversions": 88,
+    "included_count": 740
+  },
+  "28": {
+    "alpha": 15,
+    "beta": 225,
+    "pulls": 238,
+    "conversions": 14,
+    "included_count": 238
+  },
+  "29": {
+    "alpha": 17,
+    "beta": 208,
+    "pulls": 223,
+    "conversions": 16,
+    "included_count": 223
+  },
+  "30": {
+    "alpha": 67,
+    "beta": 547,
+    "pulls": 612,
+    "conversions": 66,
+    "included_count": 612
+  },
+  "31": {
+    "alpha": 54,
+    "beta": 393,
+    "pulls": 445,
+    "conversions": 53,
+    "included_count": 445
+  },
+  "32": {
+    "alpha": 48,
+    "beta": 439,
+    "pulls": 485,
+    "conversions": 47,
+    "included_count": 485
+  },
+  "33": {
+    "alpha": 56,
+    "beta": 477,
+    "pulls": 531,
+    "conversions": 55,
+    "included_count": 531
+  },
+  "34": {
+    "alpha": 17,
+    "beta": 208,
+    "pulls": 223,
+    "conversions": 16,
+    "included_count": 223
+  },
+  "35": {
+    "alpha": 29,
+    "beta": 267,
+    "pulls": 294,
+    "conversions": 28,
+    "included_count": 294
+  },
+  "36": {
+    "alpha": 16,
+    "beta": 211,
+    "pulls": 225,
+    "conversions": 15,
+    "included_count": 225
+  },
+  "37": {
+    "alpha": 18,
+    "beta": 236,
+    "pulls": 252,
+    "conversions": 17,
+    "included_count": 252
+  },
+  "38": {
+    "alpha": 23,
+    "beta": 264,
+    "pulls": 285,
+    "conversions": 22,
+    "included_count": 285
+  },
+  "39": {
+    "alpha": 14,
+    "beta": 169,
+    "pulls": 181,
+    "conversions": 13,
+    "included_count": 181
+  },
+  "40": {
+    "alpha": 15,
+    "beta": 198,
+    "pulls": 211,
+    "conversions": 14,
+    "included_count": 211
+  },
+  "41": {
+    "alpha": 48,
+    "beta": 389,
+    "pulls": 435,
+    "conversions": 47,
+    "included_count": 435
+  },
+  "42": {
+    "alpha": 51,
+    "beta": 402,
+    "pulls": 451,
+    "conversions": 50,
+    "included_count": 451
+  },
+  "43": {
+    "alpha": 28,
+    "beta": 300,
+    "pulls": 326,
+    "conversions": 27,
+    "included_count": 326
+  },
+  "44": {
+    "alpha": 41,
+    "beta": 388,
+    "pulls": 427,
+    "conversions": 40,
+    "included_count": 427
+  },
+  "45": {
+    "alpha": 81,
+    "beta": 601,
+    "pulls": 680,
+    "conversions": 80,
+    "included_count": 680
+  },
+  "46": {
+    "alpha": 38,
+    "beta": 307,
+    "pulls": 343,
+    "conversions": 37,
+    "included_count": 343
+  },
+  "47": {
+    "alpha": 45,
+    "beta": 359,
+    "pulls": 402,
+    "conversions": 44,
+    "included_count": 402
+  },
+  "48": {
+    "alpha": 14,
+    "beta": 194,
+    "pulls": 206,
+    "conversions": 13,
+    "included_count": 206
+  },
+  "49": {
+    "alpha": 32,
+    "beta": 306,
+    "pulls": 336,
+    "conversions": 31,
+    "included_count": 336
+  },
+  "50": {
+    "alpha": 36,
+    "beta": 325,
+    "pulls": 359,
+    "conversions": 35,
+    "included_count": 359
+  }
+}

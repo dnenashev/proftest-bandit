@@ -1,0 +1,352 @@
+{
+  "1": {
+    "alpha": 23,
+    "beta": 143,
+    "pulls": 164,
+    "conversions": 22,
+    "included_count": 164
+  },
+  "2": {
+    "alpha": 16,
+    "beta": 132,
+    "pulls": 146,
+    "conversions": 15,
+    "included_count": 146
+  },
+  "3": {
+    "alpha": 9,
+    "beta": 106,
+    "pulls": 113,
+    "conversions": 8,
+    "included_count": 113
+  },
+  "4": {
+    "alpha": 25,
+    "beta": 164,
+    "pulls": 187,
+    "conversions": 24,
+    "included_count": 187
+  },
+  "5": {
+    "alpha": 12,
+    "beta": 123,
+    "pulls": 133,
+    "conversions": 11,
+    "included_count": 133
+  },
+  "6": {
+    "alpha": 15,
+    "beta": 152,
+    "pulls": 165,
+    "conversions": 14,
+    "included_count": 165
+  },
+  "7": {
+    "alpha": 26,
+    "beta": 164,
+    "pulls": 188,
+    "conversions": 25,
+    "included_count": 188
+  },
+  "8": {
+    "alpha": 14,
+    "beta": 124,
+    "pulls": 136,
+    "conversions": 13,
+    "included_count": 136
+  },
+  "9": {
+    "alpha": 11,
+    "beta": 141,
+    "pulls": 150,
+    "conversions": 10,
+    "included_count": 150
+  },
+  "10": {
+    "alpha": 28,
+    "beta": 197,
+    "pulls": 223,
+    "conversions": 27,
+    "included_count": 223
+  },
+  "11": {
+    "alpha": 12,
+    "beta": 124,
+    "pulls": 134,
+    "conversions": 11,
+    "included_count": 134
+  },
+  "12": {
+    "alpha": 11,
+    "beta": 121,
+    "pulls": 130,
+    "conversions": 10,
+    "included_count": 130
+  },
+  "13": {
+    "alpha": 20,
+    "beta": 155,
+    "pulls": 173,
+    "conversions": 19,
+    "included_count": 173
+  },
+  "14": {
+    "alpha": 17,
+    "beta": 132,
+    "pulls": 147,
+    "conversions": 16,
+    "included_count": 147
+  },
+  "15": {
+    "alpha": 19,
+    "beta": 158,
+    "pulls": 175,
+    "conversions": 18,
+    "included_count": 175
+  },
+  "16": {
+    "alpha": 28,
+    "beta": 176,
+    "pulls": 202,
+    "conversions": 27,
+    "included_count": 202
+  },
+  "17": {
+    "alpha": 18,
+    "beta": 132,
+    "pulls": 148,
+    "conversions": 17,
+    "included_count": 148
+  },
+  "18": {
+    "alpha": 22,
+    "beta": 166,
+    "pulls": 186,
+    "conversions": 21,
+    "included_count": 186
+  },
+  "19": {
+    "alpha": 17,
+    "beta": 126,
+    "pulls": 141,
+    "conversions": 16,
+    "included_count": 141
+  },
+  "20": {
+    "alpha": 19,
+    "beta": 131,
+    "pulls": 148,
+    "conversions": 18,
+    "included_count": 148
+  },
+  "21": {
+    "alpha": 289,
+    "beta": 635,
+    "pulls": 922,
+    "conversions": 288,
+    "included_count": 922
+  },
+  "22": {
+    "alpha": 310,
+    "beta": 619,
+    "pulls": 927,
+    "conversions": 309,
+    "included_count": 927
+  },
+  "23": {
+    "alpha": 274,
+    "beta": 657,
+    "pulls": 929,
+    "conversions": 273,
+    "included_count": 929
+  },
+  "24": {
+    "alpha": 288,
+    "beta": 620,
+    "pulls": 906,
+    "conversions": 287,
+    "included_count": 906
+  },
+  "25": {
+    "alpha": 254,
+    "beta": 635,
+    "pulls": 887,
+    "conversions": 253,
+    "included_count": 887
+  },
+  "26": {
+    "alpha": 278,
+    "beta": 605,
+    "pulls": 881,
+    "conversions": 277,
+    "included_count": 881
+  },
+  "27": {
+    "alpha": 208,
+    "beta": 503,
+    "pulls": 709,
+    "conversions": 207,
+    "included_count": 709
+  },
+  "28": {
+    "alpha": 288,
+    "beta": 626,
+    "pulls": 912,
+    "conversions": 287,
+    "included_count": 912
+  },
+  "29": {
+    "alpha": 266,
+    "beta": 650,
+    "pulls": 914,
+    "conversions": 265,
+    "included_count": 914
+  },
+  "30": {
+    "alpha": 240,
+    "beta": 631,
+    "pulls": 869,
+    "conversions": 239,
+    "included_count": 869
+  },
+  "31": {
+    "alpha": 289,
+    "beta": 634,
+    "pulls": 921,
+    "conversions": 288,
+    "included_count": 921
+  },
+  "32": {
+    "alpha": 288,
+    "beta": 596,
+    "pulls": 882,
+    "conversions": 287,
+    "included_count": 882
+  },
+  "33": {
+    "alpha": 267,
+    "beta": 643,
+    "pulls": 908,
+    "conversions": 266,
+    "included_count": 908
+  },
+  "34": {
+    "alpha": 273,
+    "beta": 623,
+    "pulls": 894,
+    "conversions": 272,
+    "included_count": 894
+  },
+  "35": {
+    "alpha": 256,
+    "beta": 571,
+    "pulls": 825,
+    "conversions": 255,
+    "included_count": 825
+  },
+  "36": {
+    "alpha": 274,
+    "beta": 641,
+    "pulls": 913,
+    "conversions": 273,
+    "included_count": 913
+  },
+  "37": {
+    "alpha": 256,
+    "beta": 659,
+    "pulls": 913,
+    "conversions": 255,
+    "included_count": 913
+  },
+  "38": {
+    "alpha": 266,
+    "beta": 579,
+    "pulls": 843,
+    "conversions": 265,
+    "included_count": 843
+  },
+  "39": {
+    "alpha": 270,
+    "beta": 645,
+    "pulls": 913,
+    "conversions": 269,
+    "included_count": 913
+  },
+  "40": {
+    "alpha": 282,
+    "beta": 624,
+    "pulls": 904,
+    "conversions": 281,
+    "included_count": 904
+  },
+  "41": {
+    "alpha": 233,
+    "beta": 621,
+    "pulls": 852,
+    "conversions": 232,
+    "included_count": 852
+  },
+  "42": {
+    "alpha": 271,
+    "beta": 649,
+    "pulls": 918,
+    "conversions": 270,
+    "included_count": 918
+  },
+  "43": {
+    "alpha": 276,
+    "beta": 643,
+    "pulls": 917,
+    "conversions": 275,
+    "included_count": 917
+  },
+  "44": {
+    "alpha": 265,
+    "beta": 644,
+    "pulls": 907,
+    "conversions": 264,
+    "included_count": 907
+  },
+  "45": {
+    "alpha": 261,
+    "beta": 634,
+    "pulls": 893,
+    "conversions": 260,
+    "included_count": 893
+  },
+  "46": {
+    "alpha": 293,
+    "beta": 624,
+    "pulls": 915,
+    "conversions": 292,
+    "included_count": 915
+  },
+  "47": {
+    "alpha": 272,
+    "beta": 646,
+    "pulls": 916,
+    "conversions": 271,
+    "included_count": 916
+  },
+  "48": {
+    "alpha": 253,
+    "beta": 664,
+    "pulls": 915,
+    "conversions": 252,
+    "included_count": 915
+  },
+  "49": {
+    "alpha": 259,
+    "beta": 659,
+    "pulls": 916,
+    "conversions": 258,
+    "included_count": 916
+  },
+  "50": {
+    "alpha": 286,
+    "beta": 606,
+    "pulls": 890,
+    "conversions": 285,
+    "included_count": 890
+  }
+}
